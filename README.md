@@ -2,8 +2,10 @@ A script to generate label crops from images, grouped by the class, so that it's
 
 Before using adjust these parameters in code:
 
+```
 image_dir = 'images'
 label_dir = 'labels'
 image_format = 'png'
+```
 
 Paths are relative to the current directory. The classes directories will be generated in the current directory.
