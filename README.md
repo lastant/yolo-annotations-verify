@@ -9,3 +9,5 @@ image_format = 'png'
 ```
 
 Paths are relative to the current directory. The classes directories will be generated in the current directory.
+
+![Result](Screenshot.jpg)
